@@ -3,7 +3,7 @@
 🎯 **Analista de Dados Júnior** em formação contínua, com experiência em análise de negócios, visualização de dados e desenvolvimento de projetos práticos.  
 💡 Interesso-me por dados, tecnologia e redes de computadores, aplicando sempre uma abordagem prática e baseada em projetos.  
 
----
+
 
 ## 🚀 Meu Percurso  
 
@@ -16,16 +16,16 @@
   - Excel Avançado  
   - C++ (projetos de Algoritmos e Estruturas de Dados)  
 
----
+
 
 ## 📂 Projetos em Destaque  
 
 - 🔹 **Análise de planos de telecomunicações** – otimização de pacotes com base em consumo de clientes.  
 - 🔹 **Análise de funil de vendas e teste A/A/B** – avaliação estatística do comportamento de usuários em app de delivery.  
-- 🔹 **Dashboard interativo no Tableau** – análise de tendências no YouTube (`trending_by_time.csv`).  
+- 🔹 **Dashboard interativo no Tableau** – análise de tendências no YouTube .  
 - 🔹 **Previsão de rotatividade de clientes (Model Fitness)** – machine learning aplicado à retenção de clientes.  
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas  
 
@@ -34,7 +34,7 @@
 - **Visualização**: Tableau, Power BI, Excel  
 - **Versionamento**: Git & GitHub  
 
----
+
 
 ## 📫 Onde me encontrar  
 
@@ -42,4 +42,4 @@
 - Email: desejadobento90@gmail.com
 - GitHub: [link do teu GitHub]  
 
----
+
