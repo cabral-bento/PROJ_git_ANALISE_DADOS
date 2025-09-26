@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cabral  
+# 👋 Olá, eu sou o Desejado Cabral  
 
 🎯 **Analista de Dados Júnior** em formação contínua, com experiência em análise de negócios, visualização de dados e desenvolvimento de projetos práticos.  
 💡 Interesso-me por dados, tecnologia e redes de computadores, aplicando sempre uma abordagem prática e baseada em projetos.  
@@ -8,7 +8,7 @@
 ## 🚀 Meu Percurso  
 
 - 📚 Formação em **Análise de Dados pela TripleTen**  
-- 🎓 Atualmente a estudar **Informática de Gestão no ISTEC Lisboa**  
+- 🎓 Atualmente a estudar **Informática de Gestão no ISTEC Lisboa** (ULTIMO ANO) 
 - 📊 Projetos desenvolvidos em:
   - Python (pandas, numpy, plotly, matplotlib, seaborn)  
   - SQL  
