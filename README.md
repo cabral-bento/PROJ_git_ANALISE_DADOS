@@ -89,9 +89,3 @@
 
 - LinkedIn: [www.linkedin.com/in/desejado-bento-cabral90](https://www.linkedin.com/in/desejado-bento-cabral90)  
 - E-mail: desejadobento90@gmail.com  
-
----
-
-
-- LinkedIn: www.linkedin.com/in/desejado-bento-cabral90  
-- Email: desejadobento90@gmail.com
