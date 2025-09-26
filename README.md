@@ -40,6 +40,3 @@
 
 - LinkedIn: www.linkedin.com/in/desejado-bento-cabral90  
 - Email: desejadobento90@gmail.com
-- GitHub: [link do teu GitHub]  
-
-
