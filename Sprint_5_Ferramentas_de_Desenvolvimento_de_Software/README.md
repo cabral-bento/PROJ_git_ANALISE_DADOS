@@ -1,66 +1,86 @@
-# Projeto Sprint 1 – Fundamentos de Programação em Python  
-# Sprint 1 Project – Python Programming Fundamentals  
+# Projeto Sprint 5 – Desenvolvimento e Deploy de Dashboard Web  
+# Sprint 5 Project – Web Dashboard Development and Deployment  
 
 ---
 
 ## 🇵🇹 Descrição  
-Este foi o meu **primeiro projeto prático em Python**, desenvolvido no início da minha trajetória em programação. O objetivo foi aplicar os conceitos fundamentais aprendidos durante a sprint inicial, trabalhando com variáveis, tipos de dados, estruturas condicionais, loops e listas.  
+Neste projeto, o foco foi praticar tarefas comuns de **engenharia de software** para complementar minhas habilidades em **análise de dados**. O objetivo principal foi desenvolver e publicar um **aplicativo web interativo** acessível ao público.  
+
+As etapas envolveram:  
+- Criação e gerenciamento de ambientes virtuais em Python.  
+- Desenvolvimento de um **dashboard interativo** com **Streamlit**.  
+- Implementação de visualizações de dados com **Plotly Express**.  
+- Publicação do aplicativo em um serviço de nuvem (Render).  
+
+O conjunto de dados fornecido foi de **anúncios de vendas de carros**, mas havia liberdade para escolher outro dataset.  
+
+---
 
 ## 🇬🇧 Description  
-This was my **first hands-on project in Python**, developed at the beginning of my programming journey. The goal was to apply the fundamental concepts learned during the first sprint, working with variables, data types, conditionals, loops, and lists.  
+In this project, the focus was on practicing common **software engineering tasks** to complement my **data analysis** skills. The main goal was to develop and deploy a **publicly accessible interactive web application**.  
+
+The steps included:  
+- Creating and managing Python virtual environments.  
+- Developing an **interactive dashboard** with **Streamlit**.  
+- Implementing data visualizations with **Plotly Express**.  
+- Deploying the application to a cloud service (Render).  
+
+The dataset provided was about **car sales advertisements**, but I had the freedom to choose another dataset.  
 
 ---
 
 ## 🇵🇹 Objetivos do Projeto  
-- Praticar a manipulação de diferentes tipos de dados: `int`, `float`, `bool`, `string` e `list`.  
-- Realizar conversões entre tipos e operações aritméticas.  
-- Utilizar tratamento de erros com `try-except`.  
-- Aplicar formatação e manipulação de strings com `format()`, `f-strings`, `upper()`, `lower()`, `strip()` e `replace()`.  
-- Explorar listas e operações de fatiamento.  
-- Implementar loops `for` e `while` para iterar sobre coleções e condições.  
-- Criar ramificações de código com condicionais `if-elif-else`.  
-- Documentar o código com comentários claros para facilitar revisão.  
+- Consolidar práticas de **desenvolvimento de software** aplicadas a projetos de dados.  
+- Criar um **ambiente virtual isolado** para gerenciamento de dependências.  
+- Implementar um **dashboard interativo** com filtros e visualizações dinâmicas.  
+- Publicar o projeto em nuvem e torná-lo acessível externamente.  
 
 ## 🇬🇧 Project Goals  
-- Practice working with different data types: `int`, `float`, `bool`, `string`, and `list`.  
-- Perform type conversions and arithmetic operations.  
-- Use error handling with `try-except`.  
-- Apply string formatting and manipulation with `format()`, `f-strings`, `upper()`, `lower()`, `strip()`, and `replace()`.  
-- Explore lists and slicing operations.  
-- Implement `for` and `while` loops to iterate over collections and conditions.  
-- Create code branching using `if-elif-else` conditionals.  
-- Document the code with clear comments to facilitate review.  
+- Consolidate **software development practices** applied to data projects.  
+- Create an **isolated virtual environment** for dependency management.  
+- Implement an **interactive dashboard** with filters and dynamic visualizations.  
+- Deploy the project to the cloud and make it publicly accessible.  
 
 ---
 
 ## 🇵🇹 Tecnologias Utilizadas  
-- **Python** (Jupyter Notebook)  
+- **Python**  
+- **Pandas** – manipulação de dados  
+- **Streamlit** – criação do aplicativo web  
+- **Plotly Express** – visualização de dados interativa  
+- **Git & GitHub** – versionamento e integração com o Render  
+- **Render.com** – deploy em nuvem  
 
 ## 🇬🇧 Technologies Used  
-- **Python** (Jupyter Notebook)  
+- **Python**  
+- **Pandas** – data manipulation  
+- **Streamlit** – web app development  
+- **Plotly Express** – interactive data visualization  
+- **Git & GitHub** – version control and Render integration  
+- **Render.com** – cloud deployment  
 
 ---
 
 ## 🇵🇹 Principais Resultados  
-- Consegui implementar soluções simples e funcionais em Python, reforçando a lógica de programação.  
-- Estruturei códigos limpos e comentados, garantindo legibilidade.  
-- Exercitei o pensamento lógico para criar estruturas que resolvem problemas básicos.  
+- Consegui publicar um dashboard interativo acessível online.  
+- Estruturei o projeto com boas práticas de organização e versionamento.  
+- Demonstrei habilidades tanto em **análise de dados** quanto em **deploy de aplicações web**.  
 
 ## 🇬🇧 Main Results  
-- Implemented simple and functional Python solutions, strengthening programming logic.  
-- Structured clean and well-commented code, ensuring readability.  
-- Practiced logical thinking to build structures that solve basic problems.  
+- Successfully deployed an interactive dashboard accessible online.  
+- Structured the project with good organizational and version control practices.  
+- Demonstrated skills in both **data analysis** and **web application deployment**.  
 
 ---
 
 ## 🇵🇹 Aprendizados  
-Esse projeto marcou minha **primeira experiência prática** em programação, consolidando conceitos essenciais. Aprendi a importância de:  
-- Escrever código limpo e comentado.  
-- Testar e revisar cada etapa antes de finalizar.  
-- Usar blocos de controle e estruturas de repetição para criar programas mais eficientes.  
+Esse projeto foi importante porque me aproximou de práticas de **engenharia de software** e **deploy em nuvem**. Aprendi a importância de:  
+- Trabalhar com ambientes virtuais.  
+- Publicar soluções de dados de forma acessível.  
+- Integrar análise de dados com interfaces interativas para usuários finais.  
 
 ## 🇬🇧 Learnings  
-This project marked my **first practical experience** in programming, consolidating essential concepts. I learned the importance of:  
-- Writing clean and well-documented code.  
-- Testing and reviewing each step before finalizing.  
-- Using control structures and loops to create more efficient programs.  
+This project was important as it brought me closer to **software engineering** and **cloud deployment** practices. I learned the importance of:  
+- Working with virtual environments.  
+- Publishing data solutions in an accessible way.  
+- Integrating data analysis with interactive user-facing interfaces.  
